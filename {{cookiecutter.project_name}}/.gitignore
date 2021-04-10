@@ -4,7 +4,6 @@
 .pytest_cache
 
 # poetry
-poetry.lock
 .venv
 *.egg-info
 pip-wheel-metadata
